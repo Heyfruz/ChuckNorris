@@ -1,0 +1,16 @@
+export const pallets = {
+  background: '#FFFFFF',
+  black: '#0B0B0B',
+  border: '#E8E8E8',
+  card: '#F3F3F7',
+  darkGrey: '#BDBDBD',
+  grey: '#F6F6F6',
+  grey2: '#666666',
+  inactive: '#E3E3E3',
+  notification: '#06D6A0',
+  primary: '#2CA58D',
+  red: '#FF0058',
+  text: '#0B0B0B',
+  transparent: 'transparent',
+  white: '#FFFFFF',
+};
